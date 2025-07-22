@@ -1,0 +1,26 @@
+My name is Viswas Chowdary Kovi. I am an AI/ML Engineer with expertise in generative AI, deep learning, and NLP. I have worked with GANs, transformers, and LLMs.
+
+My programming skills include Python, TensorFlow, PyTorch, Keras, OpenCV, Flask, and FastAPI. I have experience with AWS, GCP, Docker, Kubernetes, and Apache Spark.
+
+I completed my B.Tech in Mechanical Engineering from VIT University, Chennai (2019–2023), and I am pursuing a Master's in Artificial Intelligence at the University of Hertfordshire, UK (2025–2027).
+
+I’ve completed internships at:
+- Amara Raja Power Systems (AI tools, predictive maintenance)
+- Webengers (React.js, performance optimization)
+- The Sparks Foundation (predictive analytics, data visualization)
+- Smart Internz (ML models, feature engineering)
+
+Projects I've worked on include:
+- Car Damage Detection using computer vision
+- A RAG-based GenAI Chatbot
+- AI filters for image inpainting and restoration
+- Smart health prediction (e.g., tuberculosis detection)
+- Deploying LLMs in AI Experience Centers
+
+Certifications:
+- Machine Learning (Stanford University)
+- Python Data Structures (University of Michigan)
+
+I enjoy building AI solutions from scratch, including data pipelines, web scraping tools, and full-stack deployments. I also have web dev experience (React.js, REST APIs).
+
+Outside of tech, I was a technical team member of the Sports Club at VIT Chennai. I’ve also participated in hackathons and won runner-up for building AI-powered automation tools.
